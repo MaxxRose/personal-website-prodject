@@ -9,8 +9,20 @@ let mouseWeight = 2;
 let ostrichHeight = 2;
 let duckHeight = 0.3;
  
-// Statement 3: The two passwords match
-let pwd1 = 'stromboli';
-let pwd2 = 'stROmBoLi'
+// Statement 3: The two names match
+let pwd1 = 'tom';
+let pwd2 = 'bob'
  
 // Add your code here
+var core;
+core = 2;
+
+let quoteStart = "Don't judge each day by the harvest you reap";
+var quoteEnd = "but by the seeds you plant";
+var finalQuote= quoteStart + quoteEnd;
+console.log(finalQuote)
+function printHello() {
+    console.log("hello");
+}
+printHello();
+
