@@ -40,9 +40,22 @@ console.log (inch + "in")
 
 var student ={
     height:1.55,
-    weight: 110
+    weight: 110,
     name: "Max",
-say hello: Function (){
-    console.log ("hello")
+sayhello: function (){
+    console.log("hello")
 }
+}
+console.log(vehical.make)
+console.log(vehical.model)
+let car = {
+    latitude: 40, 74
+    longitude: -74
+    goNorth: function () {
+        latitude+=1
+    }
+    goWest: function () {
+        longitude-=1
+
+    }
 }
