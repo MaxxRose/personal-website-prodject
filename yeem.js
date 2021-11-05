@@ -26,3 +26,23 @@ function printHello() {
 }
 printHello();
 
+function avg(x,y){
+    return (x+y)/2;
+}
+var x = avg(3,5)\
+
+isEven(%n2)
+
+convertCMtoIN(2){
+cm / 2.54
+console.log (inch + "in")
+}
+
+var student ={
+    height:1.55,
+    weight: 110
+    name: "Max",
+say hello: Function (){
+    console.log ("hello")
+}
+}
