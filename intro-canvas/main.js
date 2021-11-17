@@ -3,7 +3,7 @@ var ctx = canvas.getContext("2d");
 ctx.beginPath();
 ctx.lineWidth = "10";
 ctx.strokeStyle = "blue";
-ctx.fillRect(5, 0, 55, 5);
+ctx.fillRect(5, 0, 55, 5); /// pixels
 ctx.fillRect(0, 5, 5, 75);
 ctx.stroke();
 ctx.fillRect(60, 5, 5, 75);
@@ -36,3 +36,4 @@ ctx.fillRect(20, 85, 10, 5);
 ctx.fillRect(35, 85, 10, 5);
 ctx.fillRect(30, 90, 5, 5);
 ctx.fillRect(35, 20, 5, 5);
+function design jornal domtree 
