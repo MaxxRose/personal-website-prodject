@@ -6,12 +6,12 @@ ctx.beginPath();
 ctx.lineWidth = "10";
 ctx.strokeStyle = "blue";
 ctx.fillRect(5, 0, 55, 5); /// pixels
-ctx.fillRect(0, 5, 5, 75);
+ctx.fillRect(0, 5, 5, 75);///more pixels
 ctx.stroke();
 ctx.fillRect(60, 5, 5, 75);
 ctx.fillRect(5, 80, 5, 5);
 ctx.fillRect(55, 80, 5, 5);
-ctx.fillRect(10, 85, 5, 5);
+ctx.fillRect(10, 85, 5, 5);///not a pixel, but I wont tell u what it is
 ctx.fillRect(50, 85, 5, 5);
 ctx.fillRect(15, 90, 5, 5);
 ctx.fillRect(45, 90, 5, 5);
