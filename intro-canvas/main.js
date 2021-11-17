@@ -1,5 +1,7 @@
 var canvas = document.getElementById("canvas");
 var ctx = canvas.getContext("2d");
+
+function draw (){
 ctx.beginPath();
 ctx.lineWidth = "10";
 ctx.strokeStyle = "blue";
@@ -36,4 +38,5 @@ ctx.fillRect(20, 85, 10, 5);
 ctx.fillRect(35, 85, 10, 5);
 ctx.fillRect(30, 90, 5, 5);
 ctx.fillRect(35, 20, 5, 5);
-function design jornal domtree 
+}
+draw ()
