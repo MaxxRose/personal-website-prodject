@@ -15,8 +15,8 @@
     canvas.height = 800
 
     // world/scene settings
-    gravity = 0
-    friction = 0.1
+    gravity = 0.25
+    friction = 0.25
 
     // starting objects
     ball = {
