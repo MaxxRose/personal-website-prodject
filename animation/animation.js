@@ -100,6 +100,5 @@
     draw()
   }
 
-  // start our code once the page has loaded
   document.addEventListener('DOMContentLoaded', init)
 })()
